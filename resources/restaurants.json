@@ -1,6 +1,22 @@
 [
   {
     "type": "SUSHI",
-    "name": "sushi tei"
+    "name": "sushi tei",
+    "ownerID": "1"
+  },
+  {
+    "type": "PIZZA",
+    "name": "pizza hut",
+    "ownerID": "1"
+  },
+  {
+    "type": "PIZZA",
+    "name": "blue label",
+    "ownerID": "2"
+  },
+  {
+    "type": "KEBAB",
+    "name": "kazbae",
+    "ownerID": "3"
   }
 ]
